@@ -1,35 +1,46 @@
-# Building-A-piano
+# **Piano Webpage Project**
 
-This website was built using Free Code Camp instructions: Learn Responsive Web Design By Building A Piano
+## **Project Overview**
 
-Section: Responsive web design
+#### This Project Is A **Piano Webpage**, Developed As Part of The FreeCodeCamp Curriculum. 
 
-Course Name: Learn Responsive Web Design By Building A Piano
+#### The Primary Goal Is Learn Responsive Web Design By Building A Piano Webpage.
 
-Deatils:
+## **Course Details**
 
-Responsive Design tells your webpage how it should look on different-sized screens.
++ **Course Section**: Responsive Web Design.
+  
++ **Project Name**:  Piano Webpage.
+  
++ This Site Was Built Using **[Free Code Camp](https://www.freecodecamp.org/).**
+  
++ This Project Is One of The **Required Tasks** To Earn The Certification In Responsive Web Design.
 
-In this course, you'll use CSS and Responsive Design to code a piano. You'll also learn more about media queries and pseudo selectors.
+## **Purpose**
 
+Responsive Design Tells Your Webpage How It Should Look On Different-Sized Screens.  
 
+In This Course, You'll Use CSS And Responsive Design To Code A Piano. 
 
-Link:
+You'll Also Learn More About Media Queries And Pseudo Selectors.
 
+## **Acknowledgment**
 
-https://www.freecodecamp.org/
+This Project Was Created Following The Instructions Provided By **FreeCodeCamp**.
 
+**All rights** To This Project And Its Related Materials Belong To **FreeCodeCamp**, A Free Educational Platform Offering Structured Courses And Hands-on Projects.
 
+I Am Showcasing This Project As Part of My Learning Journey, Completed Based on FreeCodeCamp's Resources And Guidance.
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+A Big Thank You To **FreeCodeCamp** For Their Well-Structured Curriculum, Projects, And Partially Provided Code Snippets That Made This Project Possible.
 
+## **Special Thanks**
 
-This WebSite or Project Was Built Using The Instructions of The Free Code Camp  WebSite.
+I Would Also Like To Extend **My Gratitude** To The Following Channels For Their Guidance In Writing The Code:
 
-Therefore, All Rights In This WebSite or Project Belong To The Free Code Camp Site, A Free Educational Site That Contains Many Projects.
+**[@codeManS](https://www.youtube.com/@codeManS)**
 
-I Am Only Reviewing The Project After Building It From Their Site, So The Project Does Not Belong To Me.
+**[@landonschlangen](https://www.youtube.com/@landonschlangen)**
 
-I Would Like To thank The Educational Website Free Code Camp For Teaching Me By Providing Projects , Instructions , And Part of The Codes
-
+These Resources Provided Valuable Insights And Helped Me Refine My Coding Skills.
 
